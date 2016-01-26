@@ -1,0 +1,328 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+h1 {
+    font-family: 'Raleway', sans-serif;
+}
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+h3 {
+    font-family: 'Raleway', sans-serif;
+}
+h4 {
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color: #c7c7c7;
+}
+
+a:hover {
+    color: #fff;
+}
+
+p {
+    font-size: 1.25em;
+    margin-bottom: 1em;
+}
+
+ul {
+    font-size: 1em;
+}
+
+#top-space {
+    margin-top: 10%;
+}
+
+#btn-backtotop {
+	border: 0;
+}
+
+.min-img {
+    max-width: 50%;
+}
+
+.box {
+    background-color: #adadad;
+    padding: 30px 0 30px 0;
+}
+
+.topnav {
+    font-family: "Raleway",sans-serif;
+    font-size: 1.15em; 
+}
+
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/HKT/HKT-cover.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-header-toy {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/TM/TM-cover.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-header-meyer {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/M/M-cover.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.intro-message {
+    position: relative;
+    padding: 5%;
+    margin: 5%;
+    color: #fff;
+    text-shadow: 3px 3px 6px #000;
+/*    background-color: hsla(0, 0%, 0%, 0.4);*/
+}
+
+.intro-message > h1 {
+    margin: 0;
+    font-size: 4em;
+}
+
+.intro-divider {
+    width: 100%;
+    position: relative;
+    border-top: 2px dotted #e7e7e7;
+}
+
+.intro-divider-short {
+    width: 40%;
+    position: relative;
+    border-top: 2px dotted #e7e7e7;
+}
+
+/* ---------font-awesome icon---------- */
+.fa-icon {
+    font-size: 5em;
+    text-align: center;
+    color: #f8f8f8;
+    padding: 3%;
+}
+
+/* --------------portfolio section--------------- */
+.blank-bar-a {
+    text-align: center;
+    padding: 10px;
+    color: #808080;
+    font-size: 2em;
+}
+
+.blank-bar-b {
+    background-color: #f8f8f8;
+    text-align: center; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    color: #808080;
+    font-size: 1.5em;
+}
+
+.section-subheading {
+    text-transform: uppercase;
+    font-size: 1em;
+    color: #808080;
+}
+
+.text-left {
+
+}
+
+.lead {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.img-responsive {
+    border: 5px solid #fff;
+}
+
+.button-name {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    color: #808080;
+    font-size: 1em;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+/* -------------------------- content -------------------------------*/
+.content-body {
+    float: center;
+}
+
+/*
+.circle
+{
+border-radius: 50%;
+width: 100px;
+height: 100px;
+float: center;
+background: #e7e7e7;
+}
+*/
+
+
+.content-section-a {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.content-section-b {
+    padding: 50px 0;
+ /*   border-top: 1px solid #e7e7e7; */
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.section-heading {
+    font-size: 3em;
+    margin-bottom: 30px;
+}
+
+.section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.section-heading-spacer-long {
+    float: center;
+    width: 100%;
+    border-top: 1px solid #e7e7e7;
+}
+
+/* -------------------------- bottom banner -------------------------------*/
+.banner {
+    padding: 80px 0;
+    color: #f8f8f8;
+    background: url(../img/exit.jpg) no-repeat center center;
+    background-size: cover;
+    color: #000;
+}
+
+.banner h2 {
+    margin: 0;
+    font-size: 2em;
+    font-weight: 400;
+}
+
+.banner a {
+    color: #c7c7c7;
+}
+
+.banner a:hover {
+    color: #fff;
+}
+
+.banner ul {
+    margin-bottom: 0;
+}
+
+.banner-social-buttons {
+    float: right;
+    margin-top: 0;
+}
+
+
+/* -------------------------- footer ----------------------*/
+
+footer {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+
+p.copyright {
+    margin: 15px 0 0;
+}
+
+
+/* ----------------------media queries----------------------*/
+
+@media(max-width:1199px) {
+    ul.banner-social-buttons {
+        float: left;
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:768px) {
+    .intro-message {
+/*        padding-top: 40%; */
+    }
+
+    .intro-message > h1 {
+        font-size: 3em;
+    }
+
+
+    ul.intro-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.intro-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+
+    .intro-divider {
+        color: ;
+        width: 100%;
+    }
+
+    .banner h2 {
+        margin: 0;
+        font-size: 2em;
+
+    }
+
+    ul.banner-social-buttons > li {
+        display: block;
+        margin-bottom: 20px;
+        padding: 0;
+    }
+
+    ul.banner-social-buttons > li:last-child {
+        margin-bottom: 0;
+    }
+    .img-responsive {
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:414px) {
+    .intro-message {
+/*        padding-top: 70%; */
+    }
+
+    #top-space {
+        margin-top: 0;
+    }
+
+}
+
+@media(max-width:320px) {
+    .intro-message > h1 {
+        font-size: 2.5em;
+    }
+}
