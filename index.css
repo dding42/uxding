@@ -79,14 +79,21 @@ i {
 .fa-icon {
     font-size: 5em;
     text-align: center;
-    color: #f8f8f8;
     padding: 3%;
+}
+
+.fa-icon > a {
+    color: #fff;
+}
+
+.fa-icon > a:hover {
+    color: #808080;
 }
 
 /* --------------portfolio section--------------- */
 .blank-bar {
-    text-align: center;
-    padding: 10px;
+    text-align: left;
+    padding: 15px 0;
     color: #808080;
     font-size: 2em;
 }
@@ -102,15 +109,6 @@ i {
     font-weight: 400;
 }
 
-.img-responsive {
-    border: 5px solid #fff;
-}
-
-.img-responsive-no-border {
-    border: 0px;
-    width: 100%;
-}
-
 /* --------------BUTTONS--------------- */
 
 .button-name {
@@ -120,9 +118,14 @@ i {
     font-size: 1em;
     font-weight: 400;
     letter-spacing: 2px;
+}
+
+.btn {
+    border-radius: 0;
+}
 
 /* -------------------------- banner -------------------------------*/
-}
+
 .content-section-a {
     padding: 50px 0;
     background-color: #f8f8f8;
@@ -131,7 +134,6 @@ i {
 
 .content-section-b {
     padding: 50px 0;
- /*   border-top: 1px solid #e7e7e7; */
     border-bottom: 1px solid #e7e7e7;
 }
 
@@ -161,7 +163,7 @@ i {
 }
 
 .banner a {
-    color: #c7c7c7;
+    color: #fff;
 }
 
 .banner a:hover {
@@ -175,38 +177,43 @@ i {
 .banner-social-buttons {
     float: left;
     margin-top: 0;
-
+    color: #000;
     font-family: "Raleway", sans-serif;
     font-size: 1em;
     font-weight: 400;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
-.button-footer {
+.btn-footer {
     color: #000;
     border-radius: 0;
-    border: 2px solid #000;
+    border: 1px solid #000;
     background-color: transparent;
+}
+
+.btn-footer:hover {
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 
 /* -------------------------- footer ----------------------*/
-
+/* delete footer
 footer {
     padding: 50px 0;
     background-color: #f8f8f8;
 }
+*/
 
 p.copyright {
+    float: right;
+    color: #000;
     margin: 15px 0 0;
 }
-
 
 /* ----------------------media queries----------------------*/
 
 @media(max-width:1199px) {
     ul.banner-social-buttons {
-        float: left;
         margin-top: 15px;
     }
 }
@@ -259,6 +266,10 @@ p.copyright {
     .intro-message {
         padding-top: 70%;
     }
+}
+
+p.copyright {
+    float: center;
 }
 
 @media(max-width:320px) {
