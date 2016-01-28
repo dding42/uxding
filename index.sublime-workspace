@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"li",
+				"li	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/6DD1F588-2212-4A96-B180-A4E23B367258/case-study-Meyer.html",
+		"/Users/dd/Documents/GitHub/uxding/casestudy.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/2712A230-3BDF-4669-A110-85F29274A560/cv.html",
+		"/Users/dd/Desktop/cv.html",
+		"/Users/dd/Documents/GitHub/uxding/casestudy.css",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/649FDC70-A2CD-44D2-B3D5-E22292A96732/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/C2461601-6AEC-4D93-BBD8-C3A5501AD96F/case-study-Meyer.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/8C671C92-55F0-4D45-9A57-E83586D520D2/case-study-Meyer.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/594E683D-F526-40E3-B7CF-E033893CB8E4/case-study-Meyer.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/372F5485-FAEA-4C4E-8CAB-5F1E1B5A432D/case-study-Meyer.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/3C6DFF22-5BC9-49FB-A0BF-30F3CAB6C146/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/154752DC-5FAF-47BE-B9C3-945F9A19D286/project-page.css",
+		"/Users/dd/Desktop/case-study.html",
+		"/Users/dd/Desktop/case-study-Meyer.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/0A2550DC-F642-4216-BE27-D4D9BE027829/project-page.css",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/334D26CD-4DD5-4783-B46D-6CE6B832B471/case-study-HKT.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/A0F279A1-AE2C-4628-BA80-E8EE75B22CC8/index.html",
+		"/Users/dd/Desktop/case-study-HKT.html",
+		"/Users/dd/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/A4EE554B-FE53-4456-B694-905FA303C619/index.html",
+		"/Users/dd/Desktop/coming-soon.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/BF3439CA-3143-457A-9462-24A47E63A5B9/landing-page.css",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/FFBA1CDC-15D1-4B39-9748-F83E11AEA01C/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/13C5389F-4F37-4E7E-9D96-464847D03F62/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/E8F83060-BE6B-4A42-B0F0-5C69606AB075/landing-page.css",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/8A231CB1-8DC1-48C5-AB00-F4CAF7A008E1/bootstrap.css",
+		"/Users/dd/Downloads/rwd-samplefiles-master-d3af2f7f7cbfe1ebf79dc266983b32007f0cc82a/-/css/style.css",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/5FDC8A58-D4AF-455D-B4A4-509627F90D77/index.html",
+		"/Users/dd/Downloads/rwd-samplefiles-master-d3af2f7f7cbfe1ebf79dc266983b32007f0cc82a/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/AAABF49D-B6C0-4524-B09A-5E643F0FA260/index.html",
+		"/Users/dd/Desktop/GitHub/newGitTest/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/13E387FB-C5D8-440A-8469-7EF5030F7B91/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/738D0010-5A0A-4789-AA9A-374C38423BF8/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/B42ABC2C-7D82-41B1-AF31-1B1F11B3FE39/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/3B75E779-305A-4F3F-964E-39B1C965A9E8/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/8D5B1E36-533C-4E1D-BCFB-7ACFE45AFB7A/main.css",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/A6212112-D0D6-45FF-8071-CF498DCA9FC5/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/79B2F31E-7AAC-43DC-B0B7-709A4830E6B2/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/C80B52DB-C278-4E27-8B3B-0E4F62740963/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/0624F35F-D04A-4AC5-B225-A47F5B8BBEBC/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/793CE4F0-016D-4236-8CD9-9E35F3D6E3B2/index.html",
+		"/Users/dd/Library/Caches/Cleanup At Startup/Transmit/9DC03BF5-36A9-40BA-A0C2-49DA39F0D817/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"img-respons",
+			"fa fa",
+			"footer",
+			"hover",
+			"banner-social-buttons",
+			"button",
+			".button-name",
+			"btn",
+			"work",
+			"affinity",
+			"in hk",
+			"key insights",
+			"solution",
+			"selector",
+			"opportunity",
+			"case study",
+			"key insights",
+			"content-section-a",
+			"usability testing",
+			"divier",
+			"HK tramway mobile design",
+			"strategy",
+			"user flow",
+			"design",
+			"after",
+			"findings",
+			"clearfix",
+			"survey",
+			"discover",
+			"background",
+			"streng",
+			"btn",
+			"strategy",
+			"contextu",
+			".af-icon",
+			"center",
+			"font",
+			".lede",
+			"xoverlay",
+			"footer",
+			"footer color",
+			"overlay",
+			"footer",
+			"overlay.png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 145.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
