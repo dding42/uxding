@@ -268,10 +268,6 @@ p.copyright {
     }
 }
 
-p.copyright {
-    float: center;
-}
-
 @media(max-width:320px) {
     .intro-message > h1 {
         font-size: 2.5em;
@@ -280,4 +276,9 @@ p.copyright {
     .intro-message > h2 {
         font-size: 1.5em;
     }
+
+    p.copyright {
+    float: center;
+}
+
 }
