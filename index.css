@@ -20,6 +20,7 @@ h1 {
 h2 {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
+    line-height: 125%;
 }
 h3 {
     font-family: 'Raleway', sans-serif;
@@ -57,7 +58,7 @@ i {
 
 .intro-message {
     position: relative;
-    padding-top: 30%;
+    padding-top: 20%;
     color: black;
 }
 
@@ -79,7 +80,7 @@ i {
 .fa-icon {
     font-size: 5em;
     text-align: center;
-    padding: 3%;
+/*    padding: 3%;*/
 }
 
 .fa-icon > a {
@@ -176,7 +177,6 @@ i {
 
 .banner-social-buttons {
     float: left;
-    margin-top: 0;
     color: #000;
     font-family: "Raleway", sans-serif;
     font-size: 1em;
@@ -220,7 +220,7 @@ p.copyright {
 
 @media(max-width:768px) {
     .intro-message {
-        padding-top: 40%;
+        padding-top: 30%;
     }
 
     .intro-message > h1 {
@@ -264,7 +264,7 @@ p.copyright {
 
 @media(max-width:414px) {
     .intro-message {
-        padding-top: 70%;
+        padding-top: 40%;
     }
 }
 
